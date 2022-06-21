@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Arusim Groceries\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Arusim Groceries\\.nuget\\packages"
+    ]
+  }
+}

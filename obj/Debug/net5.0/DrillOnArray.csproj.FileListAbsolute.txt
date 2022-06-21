@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.exe
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.deps.json
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.dll
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\ref\DrillOnArray.dll
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\bin\Debug\net5.0\DrillOnArray.pdb
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.dll
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\ref\DrillOnArray.dll
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.pdb
+C:\Users\Arusim Groceries\Desktop\DrillOnArray\obj\Debug\net5.0\DrillOnArray.genruntimeconfig.cache
