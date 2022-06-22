@@ -14,10 +14,7 @@ namespace DrillOnArray
     Console.WriteLine($"The number of months is : {numberOfMonths}");
 
     Console.WriteLine("-------Question 2-----\nReturn the rank of the months");
-     foreach(string month in months)
-        {
-            Console.WriteLine(month);
-        }
+    Console.WriteLine($"The rank of the array of months is : {months.Rank}");
     Console.WriteLine("-------Question 3------\nReverse the array using loop and array method"); 
     Console.WriteLine("Using Loop Method : ");
      for(int i = months.Length - 1; i >= 0; i--)
